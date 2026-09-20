@@ -2,7 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,22&height=200&section=header&text=Hi%20there,%20I'm%20Lakshith%20Reddy%20👋&fontSize=38&fontAlignY=35&animation=fadeIn" width="100%"/>
   
   <p align="center">
-    <strong>🚀 Full-Stack & AI Developer | Building intelligent solutions & web platforms</strong>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=450&lines=Full-Stack+%26+AI+Developer;Building+Intelligent+Web+Platforms;Open+Source+Contributor" alt="Typing SVG" />
+  </p>
+  
+  <p align="center">
+    <img src="https://img.shields.io/github/followers/MokuLakshithReddy?label=Followers&style=for-the-badge&logo=github&color=24292e" alt="Followers" />
+    <img src="https://img.shields.io/badge/Repositories-13-blue?style=for-the-badge&logo=github" alt="Repos" />
   </p>
 </div>
 
@@ -51,17 +56,16 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MokuLakshithReddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lakshith's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MokuLakshithReddy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=MokuLakshithReddy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MokuLakshithReddy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=MokuLakshithReddy&cc=141321&tc=FFFFFF&ic=4A6CF7&bc=000000" alt="GitHub Stats Alpha" />
 </div>
 
 ---
